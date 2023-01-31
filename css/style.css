@@ -1,0 +1,16 @@
+.profile {
+  width: 100px;
+  border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.name {
+  font-size: 20px;
+  font-family: "gulim";
+  color: chocolate;
+  text-align: center;
+}
+#special {
+  text-align: center;
+}
